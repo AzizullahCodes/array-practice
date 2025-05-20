@@ -122,20 +122,20 @@
                 // alert('After discount total price of two items is : ' + afterDiscount + ' PKR');
 
                 // ========= array-practice small project-15()=========
-                        // var name = prompt('enter your name');
-                        // var password = prompt('enter your password');
-                        // var arrName = name;
-                        // var arrPass = password;
-                        // var array  = [arrName,arrPass];
-                        // alert('Login successful with the entered data');
+                        //  var name = prompt('enter your name');
+                        //  var password = prompt('enter your password');
+                        //  var arrName = name;
+                        //  var arrPass = password;
+                        //  var array  = [arrName,arrPass];
+                        //  alert('Login successful with the entered data');
 
                            // ========= array-practice small project-16()=========
-                        //    var name = prompt('enter your name');
-                        //    var birthYear = prompt('enter your birth year YYYY');
-                        //    var nameArray = name ;
-                        // var birtArray = birthYear;
-                        // var array = [nameArray,birtArray];
-                        // console.log(array);
-                        // var currentYear = 2025;
-                        // var newage = currentYear - array[1];
-                        // alert('your age is :' + newage + ' years');
+                        //     var name = prompt('enter your name');
+                        //     var birthYear = prompt('enter your birth year YYYY');
+                        //     var nameArray = name ;
+                        //  var birtArray = birthYear;
+                        //  var array = [nameArray,birtArray];
+                        //  console.log(array);
+                        //  var currentYear = 2025;
+                        //  var newage = currentYear - array[1];
+                        //  alert('your age is :' + newage + ' years');
